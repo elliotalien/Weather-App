@@ -20,12 +20,12 @@ This is a simple weather application built with React and Vite. It allows users 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/weather-app.git
+   https://github.com/elliotalien/Weather-App.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd weather-app
+   cd Weather-App
    ```
 
 3. Install dependencies:
