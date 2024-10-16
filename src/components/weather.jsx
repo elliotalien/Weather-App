@@ -10,7 +10,7 @@ const Weather = () => {
   const search = async (city) => {
     try {
       const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${
-        import.meta.env.VITE_API_ID
+        import.meta.env.API_ID
       }`;
 
       const response = await fetch(url);
